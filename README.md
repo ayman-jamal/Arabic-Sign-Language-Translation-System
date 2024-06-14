@@ -18,7 +18,7 @@ https://github.com/mohammad-albarham/Arabic-Sign-Language-Translation-System/ass
 
 ## Citation
 
-This work has been built based on these studies/datasets:
+This work has been used these studies/datasets:
 
 - [Design of Arabic Sign Language Recognition Model](https://arxiv.org/abs/2301.02693)
 - RGB Arabic Alphabet Sign Language (AASL) dataset.
